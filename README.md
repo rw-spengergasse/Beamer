@@ -48,6 +48,6 @@ A file containing sample data
 In a parameterised test, the same test is run several times with different arguments.  
 [Deep Dive: Guide to JUnit 5 Parameterized Tests](https://www.baeldung.com/parameterized-tests-junit-5)
 
-## Equivalence classes tests (Äquivalenzklassen Tests)
+## Equivalence Classes Tests (Äquivalenzklassen Tests)
 High error coverage rate with low number of test cases.  
 [Deep Dive: Durchführung von Äquivalenzklassentest und Grenzwertanalyse](https://blog.milsystems.de/2012/03/durchfuehrung-von-aequivalenzklassentest-und-grenzwertanalyse-nach-istqb-teil-1/)
